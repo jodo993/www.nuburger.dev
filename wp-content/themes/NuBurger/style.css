@@ -1,0 +1,108 @@
+/* 
+ Theme Name:   NuBurger
+ Theme URI:    nuburger
+ Description:  Child Theme
+ Author:       Jododo
+ Author URI:   jodo
+ Template:     suevafree
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+ /* == Add your own styles below this line ==
+--------------------------------------------*/
+
+header
+{
+	background-image: url("burgermain.jpg");
+	background-position: center;
+	background-size: 100%;
+}
+
+header
+{
+	color: white !important;
+
+}
+
+nav a
+{
+	color: red !important;
+}
+
+nav a:hover
+{
+	color: white !important;
+	transform: scale(1.2,1.2);
+}
+
+body
+{
+	background-color: blue;
+}
+
+#logo
+{
+	color: white !important;
+}
+
+.wdform_section
+{
+	text-align: center;
+}
+
+#menu-item-22.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-22
+{
+	border-style: groove;
+	background-color: #959292;
+	background: rgba(0, 0, 0, 0.5);
+	margin-right: 5px;
+	padding: 1px 5px 2px 5px;
+}
+
+#menu-item-23.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-23
+{
+	border-style: groove;
+	background-color: #959292;
+	background: rgba(0, 0, 0, 0.5);
+	margin-right: 5px;
+	padding: 1px 5px 2px 5px;
+}
+
+#menu-item-24.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-24
+{
+	border-style: groove;
+	background-color: #959292;
+	background: rgba(0, 0, 0, 0.5);
+	margin-right: 5px;
+	padding: 1px 5px 2px 5px;
+}
+
+#menu-item-50.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-50
+{
+	border-style: groove;
+	background-color: #959292;
+	background: rgba(0, 0, 0, 0.5);
+	margin-right: 5px;
+	padding: 1px 5px 2px 5px;
+}
+
+#menu-item-78.menu-item.menu-item-type-post_type.menu-item-object-burger.menu-item-78
+{
+	border-style: groove;
+	border-color: #5396A3;
+	background-color: #5396A3;
+	background: rgba(0, 0, 0, 0.5);
+	margin-right: 5px;
+	padding: 1px 5px 2px 5px;
+}
+
+#menu-item-79.menu-item.menu-item-type-post_type.menu-item-object-competition.menu-item-79
+{
+	border-style: groove;
+	border-color: #621A08;
+	background-color: #5396A3;
+	background: rgba(0, 0, 0, 0.5);
+	margin-right: 5px;
+	padding: 1px 5px 2px 5px;
+}
